@@ -144,7 +144,7 @@ header a {
     border-radius: 10px;
     border: none;
     padding: 12px 17px;
-    background-color: #eee4;
+    background-color: #0004;
     color: #eee;
     cursor: pointer;
     font-weight: 700;
@@ -153,6 +153,6 @@ header a {
 
 .container .arrows button:hover {
     background-color: #eee;
-    color: #000;
+    color: #0004;
     transition: 0.7s;
 }
